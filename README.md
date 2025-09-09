@@ -1,6 +1,7 @@
 # Netdata Monitoring Dashboard
 <img width="1852" height="962" alt="image" src="https://github.com/user-attachments/assets/7b784577-9c80-448b-9bea-6fc61164534b" />
-![Uploading image.png…]()
+<img width="1102" height="862" alt="image" src="https://github.com/user-attachments/assets/6c615af6-775b-4cf4-af97-ee8e8b2c929e" />
+
 
 ## Overview
 https://roadmap.sh/projects/simple-monitoring-dashboard

@@ -1,7 +1,9 @@
 # Netdata Monitoring Dashboard
+<img width="1852" height="962" alt="image" src="https://github.com/user-attachments/assets/7b784577-9c80-448b-9bea-6fc61164534b" />
+![Uploading image.png…]()
 
 ## Overview
-
+https://roadmap.sh/projects/simple-monitoring-dashboard
 This project demonstrates setting up a **basic system monitoring dashboard using Netdata** on a Google Cloud VM. The goal is to learn the basics of system monitoring, automate installation and testing, and gain hands-on DevOps experience.
 
 Netdata is a real-time performance and health monitoring tool for systems and applications. It tracks metrics like CPU, memory, disk I/O, and more.
